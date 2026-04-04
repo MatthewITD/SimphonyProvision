@@ -1,0 +1,3 @@
+Restart the terminal to fix this machine.
+
+If you have restarted and Oracle Simphony does not open, reach out to the IT Department.
