@@ -1,4 +1,4 @@
-# POSProvision — Big Boy POS Provisioning Toolkit
+# POSProvision — POS Provisioning Toolkit
 
 **Author:** Matthew Gilmour / ITD Services, LLC
 **License:** GNU General Public License v3.0
